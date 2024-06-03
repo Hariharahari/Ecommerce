@@ -1,7 +1,0 @@
-C:\Users\harih\OneDrive\Desktop\C#\Ecom\bin\Debug\Ecom.exe.config
-C:\Users\harih\OneDrive\Desktop\C#\Ecom\bin\Debug\Ecom.exe
-C:\Users\harih\OneDrive\Desktop\C#\Ecom\bin\Debug\Ecom.pdb
-C:\Users\harih\OneDrive\Desktop\C#\Ecom\obj\Debug\Ecom.csproj.AssemblyReference.cache
-C:\Users\harih\OneDrive\Desktop\C#\Ecom\obj\Debug\Ecom.csproj.CoreCompileInputs.cache
-C:\Users\harih\OneDrive\Desktop\C#\Ecom\obj\Debug\Ecom.exe
-C:\Users\harih\OneDrive\Desktop\C#\Ecom\obj\Debug\Ecom.pdb
